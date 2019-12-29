@@ -1,0 +1,27 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  HttpProcess.cpp
+C:\Users\songy\source\repos\Project3\Project3\HttpProcess.cpp(261,32): warning C4244: “初始化”: 从“fpos_t”转换到“unsigned int”，可能丢失数据
+C:\Users\songy\source\repos\Project3\Project3\HttpProcess.cpp(263,27): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+C:\Users\songy\source\repos\Project3\Project3\HttpProcess.cpp(296,33): warning C4244: “初始化”: 从“fpos_t”转换到“unsigned int”，可能丢失数据
+C:\Users\songy\source\repos\Project3\Project3\HttpProcess.cpp(297,28): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+C:\Users\songy\source\repos\Project3\Project3\HttpProcess.cpp(299,37): warning C4244: “参数”: 从“fpos_t”转换到“const unsigned int”，可能丢失数据
+C:\Users\songy\source\repos\Project3\Project3\HttpProcess.cpp(317,30): warning C4244: “参数”: 从“fpos_t”转换到“const unsigned int”，可能丢失数据
+C:\Users\songy\source\repos\Project3\Project3\HttpProcess.cpp(226,1): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(555): message : 参见“strlwr”的声明
+C:\Users\songy\source\repos\Project3\Project3\HttpProcess.cpp(242,1): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(496): message : 参见“gmtime”的声明
+C:\Users\songy\source\repos\Project3\Project3\HttpProcess.cpp(253,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\songy\source\repos\Project3\Project3\HttpProcess.cpp(269,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+C:\Users\songy\source\repos\Project3\Project3\HttpProcess.cpp(288,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\songy\source\repos\Project3\Project3\HttpProcess.cpp(308,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HttpServer.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+C:\Users\songy\source\repos\Project3\Project3\HttpServer.cpp(41,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\songy\source\repos\Project3\Project3\HttpServer.cpp(45,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  正在生成代码...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1831): message : 参见“inet_addr”的声明
+  Project3.vcxproj -> C:\Users\songy\source\repos\Project3\Debug\WebServer.exe
